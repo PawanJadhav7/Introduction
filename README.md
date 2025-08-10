@@ -32,8 +32,8 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)  
-- Email: your.email@example.com  
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/pawan-jadhav/)  
+- Email: pawan.jadhav7@example.com  
 
 ---
 
