@@ -32,8 +32,9 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/pawan-jadhav/)  
-- Email: pawan.jadhav7@example.com  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/pawan-jadhav/)  
+- Email: pawan.jadhav7@example.com
+- Portfolio: Portfolio(https://www.pawanjadhav.cloud)
 
 ---
 
