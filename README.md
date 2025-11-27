@@ -34,7 +34,7 @@
 
 - LinkedIn: [linkedin](https://www.linkedin.com/in/pawan-jadhav/)  
 - Email: pawan.jadhav7@example.com
-- Portfolio: Portfolio(https://www.pawanjadhav.cloud)
+- Portfolio: (https://www.pawanjadhav.cloud)
 
 ---
 
